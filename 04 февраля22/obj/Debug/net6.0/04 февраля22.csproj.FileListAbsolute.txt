@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\2trimestr\04 февраля22\bin\Debug\net6.0\04 февраля22.exe
+F:\Visual Studio Projects\2trimestr\04 февраля22\bin\Debug\net6.0\04 февраля22.deps.json
+F:\Visual Studio Projects\2trimestr\04 февраля22\bin\Debug\net6.0\04 февраля22.runtimeconfig.json
+F:\Visual Studio Projects\2trimestr\04 февраля22\bin\Debug\net6.0\04 февраля22.dll
+F:\Visual Studio Projects\2trimestr\04 февраля22\bin\Debug\net6.0\04 февраля22.pdb
+F:\Visual Studio Projects\2trimestr\04 февраля22\obj\Debug\net6.0\04 февраля22.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\2trimestr\04 февраля22\obj\Debug\net6.0\04 февраля22.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\2trimestr\04 февраля22\obj\Debug\net6.0\04 февраля22.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\2trimestr\04 февраля22\obj\Debug\net6.0\04 февраля22.AssemblyInfo.cs
+F:\Visual Studio Projects\2trimestr\04 февраля22\obj\Debug\net6.0\04 февраля22.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\2trimestr\04 февраля22\obj\Debug\net6.0\04 февраля22.dll
+F:\Visual Studio Projects\2trimestr\04 февраля22\obj\Debug\net6.0\refint\04 февраля22.dll
+F:\Visual Studio Projects\2trimestr\04 февраля22\obj\Debug\net6.0\04 февраля22.pdb
+F:\Visual Studio Projects\2trimestr\04 февраля22\obj\Debug\net6.0\04 февраля22.genruntimeconfig.cache
+F:\Visual Studio Projects\2trimestr\04 февраля22\obj\Debug\net6.0\ref\04 февраля22.dll

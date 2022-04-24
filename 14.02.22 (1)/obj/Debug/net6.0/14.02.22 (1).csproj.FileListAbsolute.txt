@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\bin\Debug\net6.0\14.02.22 (1).exe
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\bin\Debug\net6.0\14.02.22 (1).deps.json
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\bin\Debug\net6.0\14.02.22 (1).runtimeconfig.json
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\bin\Debug\net6.0\14.02.22 (1).dll
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\bin\Debug\net6.0\14.02.22 (1).pdb
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\obj\Debug\net6.0\14.02.22 (1).csproj.AssemblyReference.cache
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\obj\Debug\net6.0\14.02.22 (1).GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\obj\Debug\net6.0\14.02.22 (1).AssemblyInfoInputs.cache
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\obj\Debug\net6.0\14.02.22 (1).AssemblyInfo.cs
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\obj\Debug\net6.0\14.02.22 (1).csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\obj\Debug\net6.0\14.02.22 (1).dll
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\obj\Debug\net6.0\refint\14.02.22 (1).dll
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\obj\Debug\net6.0\14.02.22 (1).pdb
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\obj\Debug\net6.0\14.02.22 (1).genruntimeconfig.cache
+F:\Visual Studio Projects\2trimestr\14.02.22 (1)\obj\Debug\net6.0\ref\14.02.22 (1).dll

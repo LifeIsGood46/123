@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\2trimestr\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+F:\Visual Studio Projects\2trimestr\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+F:\Visual Studio Projects\2trimestr\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+F:\Visual Studio Projects\2trimestr\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+F:\Visual Studio Projects\2trimestr\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+F:\Visual Studio Projects\2trimestr\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+F:\Visual Studio Projects\2trimestr\Task3\obj\Debug\netcoreapp3.1\Task3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\2trimestr\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\2trimestr\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+F:\Visual Studio Projects\2trimestr\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\2trimestr\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+F:\Visual Studio Projects\2trimestr\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
+F:\Visual Studio Projects\2trimestr\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache
+F:\Visual Studio Projects\2trimestr\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.AssemblyReference.cache

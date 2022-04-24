@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\2trimestr\28.01.01\bin\Debug\netcoreapp3.1\28.01.01.exe
+F:\Visual Studio Projects\2trimestr\28.01.01\bin\Debug\netcoreapp3.1\28.01.01.deps.json
+F:\Visual Studio Projects\2trimestr\28.01.01\bin\Debug\netcoreapp3.1\28.01.01.runtimeconfig.json
+F:\Visual Studio Projects\2trimestr\28.01.01\bin\Debug\netcoreapp3.1\28.01.01.runtimeconfig.dev.json
+F:\Visual Studio Projects\2trimestr\28.01.01\bin\Debug\netcoreapp3.1\28.01.01.dll
+F:\Visual Studio Projects\2trimestr\28.01.01\bin\Debug\netcoreapp3.1\28.01.01.pdb
+F:\Visual Studio Projects\2trimestr\28.01.01\obj\Debug\netcoreapp3.1\28.01.01.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\2trimestr\28.01.01\obj\Debug\netcoreapp3.1\28.01.01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\2trimestr\28.01.01\obj\Debug\netcoreapp3.1\28.01.01.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\2trimestr\28.01.01\obj\Debug\netcoreapp3.1\28.01.01.AssemblyInfo.cs
+F:\Visual Studio Projects\2trimestr\28.01.01\obj\Debug\netcoreapp3.1\28.01.01.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\2trimestr\28.01.01\obj\Debug\netcoreapp3.1\28.01.01.dll
+F:\Visual Studio Projects\2trimestr\28.01.01\obj\Debug\netcoreapp3.1\28.01.01.pdb
+F:\Visual Studio Projects\2trimestr\28.01.01\obj\Debug\netcoreapp3.1\28.01.01.genruntimeconfig.cache

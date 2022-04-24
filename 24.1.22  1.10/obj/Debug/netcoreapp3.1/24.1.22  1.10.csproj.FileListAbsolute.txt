@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\bin\Debug\netcoreapp3.1\24.1.22  1.10.exe
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\bin\Debug\netcoreapp3.1\24.1.22  1.10.deps.json
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\bin\Debug\netcoreapp3.1\24.1.22  1.10.runtimeconfig.json
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\bin\Debug\netcoreapp3.1\24.1.22  1.10.runtimeconfig.dev.json
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\bin\Debug\netcoreapp3.1\24.1.22  1.10.dll
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\bin\Debug\netcoreapp3.1\24.1.22  1.10.pdb
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\obj\Debug\netcoreapp3.1\24.1.22  1.10.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\obj\Debug\netcoreapp3.1\24.1.22  1.10.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\obj\Debug\netcoreapp3.1\24.1.22  1.10.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\obj\Debug\netcoreapp3.1\24.1.22  1.10.AssemblyInfo.cs
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\obj\Debug\netcoreapp3.1\24.1.22  1.10.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\obj\Debug\netcoreapp3.1\24.1.22  1.10.dll
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\obj\Debug\netcoreapp3.1\24.1.22  1.10.pdb
+F:\Visual Studio Projects\2trimestr\24.1.22  1.10\obj\Debug\netcoreapp3.1\24.1.22  1.10.genruntimeconfig.cache

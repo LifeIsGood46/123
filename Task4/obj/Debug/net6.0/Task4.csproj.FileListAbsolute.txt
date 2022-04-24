@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\2trimestr\Task4\bin\Debug\net6.0\Task4.exe
+F:\Visual Studio Projects\2trimestr\Task4\bin\Debug\net6.0\Task4.deps.json
+F:\Visual Studio Projects\2trimestr\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+F:\Visual Studio Projects\2trimestr\Task4\bin\Debug\net6.0\Task4.dll
+F:\Visual Studio Projects\2trimestr\Task4\bin\Debug\net6.0\Task4.pdb
+F:\Visual Studio Projects\2trimestr\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\2trimestr\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\2trimestr\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\2trimestr\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+F:\Visual Studio Projects\2trimestr\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\2trimestr\Task4\obj\Debug\net6.0\Task4.dll
+F:\Visual Studio Projects\2trimestr\Task4\obj\Debug\net6.0\refint\Task4.dll
+F:\Visual Studio Projects\2trimestr\Task4\obj\Debug\net6.0\Task4.pdb
+F:\Visual Studio Projects\2trimestr\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+F:\Visual Studio Projects\2trimestr\Task4\obj\Debug\net6.0\ref\Task4.dll
