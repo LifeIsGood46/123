@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\bin\Debug\net6.0\лаба1.exe
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\bin\Debug\net6.0\лаба1.deps.json
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\bin\Debug\net6.0\лаба1.runtimeconfig.json
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\bin\Debug\net6.0\лаба1.dll
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\bin\Debug\net6.0\лаба1.pdb
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\obj\Debug\net6.0\лаба1.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\obj\Debug\net6.0\лаба1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\obj\Debug\net6.0\лаба1.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\obj\Debug\net6.0\лаба1.AssemblyInfo.cs
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\obj\Debug\net6.0\лаба1.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\obj\Debug\net6.0\лаба1.dll
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\obj\Debug\net6.0\refint\лаба1.dll
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\obj\Debug\net6.0\лаба1.pdb
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\obj\Debug\net6.0\лаба1.genruntimeconfig.cache
+F:\Visual Studio Projects\2trimestr\лабы1-6\лаба1\obj\Debug\net6.0\ref\лаба1.dll

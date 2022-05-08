@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\obj\Debug\net6.0\WhatDay1.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\obj\Debug\net6.0\WhatDay1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\obj\Debug\net6.0\WhatDay1.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\obj\Debug\net6.0\WhatDay1.AssemblyInfo.cs
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\obj\Debug\net6.0\WhatDay1.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\bin\Debug\net6.0\WhatDay1.exe
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\bin\Debug\net6.0\WhatDay1.deps.json
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\bin\Debug\net6.0\WhatDay1.runtimeconfig.json
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\bin\Debug\net6.0\WhatDay1.dll
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\bin\Debug\net6.0\WhatDay1.pdb
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\obj\Debug\net6.0\WhatDay1.dll
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\obj\Debug\net6.0\refint\WhatDay1.dll
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\obj\Debug\net6.0\WhatDay1.pdb
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\obj\Debug\net6.0\WhatDay1.genruntimeconfig.cache
+F:\Visual Studio Projects\2trimestr\лабы1-6\WhatDay1\obj\Debug\net6.0\ref\WhatDay1.dll
