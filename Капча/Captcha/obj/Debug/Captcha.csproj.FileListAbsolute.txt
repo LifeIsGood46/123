@@ -1,0 +1,13 @@
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\bin\Debug\Captcha.exe.config
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\bin\Debug\Captcha.exe
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\bin\Debug\Captcha.pdb
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\obj\Debug\Captcha.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\obj\Debug\Captcha.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\obj\Debug\Captcha.Form1.resources
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\obj\Debug\Captcha.csproj.GenerateResource.cache
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\obj\Debug\Captcha.exe
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\obj\Debug\Captcha.pdb
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\obj\Debug\Captcha.Form2.resources
+F:\Visual Studio Projects\2trimestr\Капча\Captcha\obj\Debug\Captcha.Form3.resources
